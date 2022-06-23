@@ -1,56 +1,56 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Rating Component
+## Acknowledgments
+ This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-> Description the project.
 
+## Overview
+
+Challenge wass to build out this interactive rating component and get it looking as close to the design provided.
+
+Users should be able to:
+
+- Select and submit a number rating
+
+- See the "Thank you" card state after submitting a rating
+
+- View the optimal layout for the app depending on their device's screen size
+
+- See hover states for all interactive elements on the page
+
+## Snapshots
+![](./images/desktop-preview.jpg)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- css
+- Javascript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ishpaul777.github.io/RATING-COMPONENT/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple steps.
 
+- Download or clone the code 
 
-To get a local copy up and running follow these simple example steps.
+- Read the README.md file and have a look around the project
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- Get colors, fonts etc from the style-guide.md file
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishpaul Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github - [@ishpaul777](https://github.com/ishpaul777)
+- Twitter - [@ishpaul777](https://twitter.com/ishpaul777)
+- Linkedin - [@ishpaul777](https://www.linkedin.com/in/ishpaul-singh-264590226/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -61,12 +61,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
