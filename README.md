@@ -19,7 +19,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ## Snapshots
-![](./images/desktop-preview.jpg)
+![](./design/desktop-preview.jpg)
 
 ## Built With
 
