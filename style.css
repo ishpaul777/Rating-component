@@ -37,9 +37,10 @@ body {
 }
 
 .question-brief {
-  font-size: 15px;
+  color: hsl(217, 12%, 63%);
+  font-size: 13px;
   margin: 0;
-  margin-top: transpx;
+  line-height: 25px;
 }
 
 .rating-btns {
