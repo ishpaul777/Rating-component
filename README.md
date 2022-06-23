@@ -29,7 +29,7 @@ Users should be able to:
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ishpaul777.github.io/RATING-COMPONENT/)
+[Live Demo Link](https://ishpaul777.github.io/Rating-component/)
 
 
 ## Getting Started
